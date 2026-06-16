@@ -1,3 +1,49 @@
 h1{
     color:red;
 }
+
+h2{
+    color:blue;
+    grid-auto-flow: dense;
+    outline: 2px;
+    color: blue;
+}
+#heading-2{
+    color:yellow;
+}
+.heading3{
+    color:red;
+}
+.para{
+    color:blue;
+    border:2px;
+    border-style: solid;
+
+    padding:20px;
+    border: 20 px;
+
+    padding-right: 500px;
+}
+
+#navbar{
+    border:3px double red;
+    padding:50px;
+    background-color: brown;
+    text-align: center;
+}
+#navbar a{
+    color:white;
+    padding:20px;
+    text-decoration: none;
+}
+#navbar a:hover{
+    color:black;
+    background-color: white;
+}
+
+body{
+    margin:0px;
+}
+
+
+
